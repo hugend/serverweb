@@ -1,0 +1,15 @@
+@CHARSET "EUC-KR";
+#garden1{
+	float: right;
+	padding: 5px;
+	margin: 5px;
+}
+	
+#garden2{
+	float: left;
+	padding: 5px;
+	margin: 5px;
+}
+p{
+	font-size: 9pt;
+}

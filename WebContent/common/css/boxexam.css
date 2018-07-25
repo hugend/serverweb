@@ -1,0 +1,19 @@
+@CHARSET "EUC-KR";
+body{
+	font-size: 9pt;
+}
+ht{
+	color:red;
+}
+#garden{
+	background-image: url("../../images/background.gif");
+	background-repeat:no-repeat;
+	background-color: #a7cece; 
+	border: solid white 1px;
+	padding: 20px;
+	margin: 20px;
+	padding-left: 80px;
+	font-style:italic;
+	height: 80px;
+	overflow: auto;
+}

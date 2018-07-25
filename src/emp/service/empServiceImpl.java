@@ -115,5 +115,23 @@ public class empServiceImpl implements empService {
 		}
 		return result;
 	}
+
+	@Override
+	public empDTO login(String id, String pass) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int insert(String deptno, String name, String id, String pass, String addr, int point, String grade) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public ArrayList<empDTO> getemplist(String col, String value, String pass) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
